@@ -1,0 +1,8 @@
+c:\users\add\documents\visual studio 2015\Projects\clean\clean\bin\Debug\clean.exe
+c:\users\add\documents\visual studio 2015\Projects\clean\clean\bin\Debug\clean.pdb
+c:\users\add\documents\visual studio 2015\Projects\clean\clean\obj\Debug\clean.csprojResolveAssemblyReference.cache
+c:\users\add\documents\visual studio 2015\Projects\clean\clean\obj\Debug\clean.clean.resources
+c:\users\add\documents\visual studio 2015\Projects\clean\clean\obj\Debug\clean.Properties.Resources.resources
+c:\users\add\documents\visual studio 2015\Projects\clean\clean\obj\Debug\clean.csproj.GenerateResource.Cache
+c:\users\add\documents\visual studio 2015\Projects\clean\clean\obj\Debug\clean.exe
+c:\users\add\documents\visual studio 2015\Projects\clean\clean\obj\Debug\clean.pdb
